@@ -56,9 +56,13 @@
     </td>
   </tr>
 </table>
+<div dir="rtl" align="right">
+
 - سبک کد بر اساس خانواده انتخاب‌شده تولید می‌شود. خانواده‌های CH32V/CH32F/CH32X/CH32L از الگوی کتابخانه‌های متناسب خود و خانواده‌های BLE سری CH57x/CH58x/CH59x از الگوی SDK مربوط استفاده می‌کنند.
 - در برخی موارد، به‌ویژه peripheralهای چندگانه یا پیکربندی‌های خاص، لازم است کد تولیدشده را دستی تکمیل یا اصلاح کنید.
 - پس از ادغام، پروژه را کامپایل و روی سخت‌افزار واقعی آزمایش کنید؛ خروجی برنامه تضمین‌کننده صحت الکتریکی یا سازگاری قطعی با تمام مدل‌ها نیست.
+
+</div>
 
 ## منابع رسمی WCH
 
@@ -73,10 +77,15 @@
 
 ## تهیه و تدوین
 
-**معمار الکترونیک صنعت | MEMAR ELECTRONIC SANAT (MES)**
+**معمار الکترونیک صنعت**  
+**MEMAR ELECTRONIC SANAT (MES)**
+
+همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
 
 طراحی و توسعه مدارهای الکترونیکی، PCB، سیستم‌های embedded و ابزارهای پیکربندی میکروکنترلر.
 
+- کانال تلگرام: [https://t.me/Memar_Electronic](https://t.me/Memar_Electronic)
+- پیج اینستاگرام: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
 - GitHub: [MEMAR-ELECTRONIC-SANAT](https://github.com/MEMAR-ELECTRONIC-SANAT)
 
 ---
