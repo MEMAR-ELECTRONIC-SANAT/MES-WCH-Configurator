@@ -75,6 +75,30 @@
 
 [MEMAR-ELECTRONIC-SANAT / MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
 
+## تصاویر و راهنمای برنامه
+
+تصاویر زیر نمایی از صفحه اصلی، تنظیم peripheralها، راهنمای استفاده و بخش معرفی برنامه را نشان می‌دهند. برای مشاهده تصویر در اندازه کامل، روی آن کلیک کنید.
+
+### صفحه اصلی برنامه
+[![صفحه اصلی WCH Configurator](./Images/Home%20Page%20FA.jpg)](./Images/Home%20Page%20FA.jpg)
+
+نمای کلی برنامه و بخش‌های اصلی انتخاب تراشه و پیکربندی.
+
+### تنظیم peripheralها
+[![تنظیم peripheralها در WCH Configurator](./Images/peripherals%20FA.jpg)](./Images/peripherals%20FA.jpg)
+
+نمایی از بخش تنظیم peripheralها و گزینه‌های پیکربندی در برنامه.
+
+### راهنمای استفاده
+[![راهنمای WCH Configurator](./Images/Help%20FA.jpg)](./Images/Help%20FA.jpg)
+
+راهنمای تصویری برای آشنایی با نحوه استفاده از ابزار.
+
+### درباره برنامه
+[![درباره WCH Configurator](./Images/About%20FA.jpg)](./Images/About%20FA.jpg)
+
+معرفی برنامه و مجموعه معمار الکترونیک صنعت.
+
 ## تهیه و تدوین
 
 **معمار الکترونیک صنعت**  
