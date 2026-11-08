@@ -72,6 +72,30 @@
 
 [MEMAR-ELECTRONIC-SANAT / MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
 
+## Application screenshots and guide
+
+The screenshots below show the application's home page, peripheral configuration, usage guide, and About section. Click an image to view it at full size.
+
+### Application home page
+[![WCH Configurator home page](./Images/Home%20Page%20EN.jpg)](./Images/Home%20Page%20EN.jpg)
+
+Overview of the application and its main chip selection and configuration areas.
+
+### Peripheral configuration
+[![WCH Configurator peripheral settings](./Images/peripherals%20EN.jpg)](./Images/peripherals%20EN.jpg)
+
+A view of the peripheral configuration section and its available settings.
+
+### User guide
+[![WCH Configurator help guide](./Images/Help%20EN.jpg)](./Images/Help%20EN.jpg)
+
+Visual guide to help users understand how to use the tool.
+
+### About the application
+[![About WCH Configurator](./Images/About%20EN.jpg)](./Images/About%20EN.jpg)
+
+Introduction to the application and MEMAR ELECTRONIC SANAT.
+
 ## Prepared by
 
 **MEMAR ELECTRONIC SANAT (MES) | معمار الکترونیک صنعت**
