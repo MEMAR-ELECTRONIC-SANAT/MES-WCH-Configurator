@@ -14,7 +14,7 @@
 
 ## نسخه و فایل برنامه
 
-- **نسخه:** 1.4
+- **نسخه:** 1.7
 - **زبان رابط:** فارسی / English
 - **فایل برنامه:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
 - **مشاهده برنامه در GitHub:** [WCH Configurator v1.4](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_4.html)
@@ -33,7 +33,7 @@
 ## روش استفاده
 
 1. فایل HTML برنامه را از مخزن دریافت کنید.
-2. فایل **wch-configurator FA-EN v1_4.html** را با مرورگر به‌روز مانند Firefox، Chrome یا Edge باز کنید.
+2. فایل **wch-configurator FA-EN v1_7.html** را با مرورگر به‌روز مانند Firefox، Chrome یا Edge باز کنید.
 3. خانواده میکروکنترلر و سپس مدل دقیق تراشه را انتخاب کنید.
 4. از تب‌های GPIO، SPI، I²C، UART، TIMER، ADC یا IRQ، peripheral موردنظر را تنظیم کنید.
 5. روی **Add to configuration** کلیک کنید تا تنظیم به فهرست پیکربندی اضافه شود.
