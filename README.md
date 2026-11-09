@@ -16,8 +16,8 @@
 
 - **نسخه:** 1.7
 - **زبان رابط:** فارسی / English
-- **فایل برنامه:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
-- **مشاهده برنامه در GitHub:** [WCH Configurator v1.4](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_4.html)
+- **فایل برنامه:** [wch-configurator FA-EN v1_7.html](./wch-configurator%20FA-EN%20v1_7.html)
+- **مشاهده برنامه در GitHub:** [WCH Configurator v1.7](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_7.html)
 
 ## قابلیت‌ها
 
