@@ -8,16 +8,16 @@
 
 **پیکربندی پریفراال‌های میکروکنترلرهای WCH و تولید کد راه‌اندازی C**
 
-ابزار **WCH Configurator FA-EN v1.7** برای انتخاب خانواده و مدل میکروکنترلرهای WCH، تنظیم پریفراال‌های رایج و تولید کد اولیه راه‌اندازی به زبان C طراحی شده است.
+ابزار **WCH Configurator FA-EN v1.4** برای انتخاب خانواده و مدل میکروکنترلرهای WCH، تنظیم پریفراال‌های رایج و تولید کد اولیه راه‌اندازی به زبان C طراحی شده است.
 
 > انتخاب تراشه، پیکربندی периферال‌ها و دریافت کد راه‌اندازی — در یک ابزار سبک تحت وب.
 
 ## نسخه و فایل برنامه
 
-- **نسخه:** 1.7
+- **نسخه:** 1.4
 - **زبان رابط:** فارسی / English
-- **فایل برنامه:** [wch-configurator FA-EN v1_7.html](./wch-configurator%20FA-EN%20v1_7.html)
-- **مشاهده برنامه در GitHub:** [WCH Configurator v1.7](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_7.html)
+- **فایل برنامه:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
+- **مشاهده برنامه در GitHub:** [WCH Configurator v1.4](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_4.html)
 
 ## قابلیت‌ها
 
@@ -33,7 +33,7 @@
 ## روش استفاده
 
 1. فایل HTML برنامه را از مخزن دریافت کنید.
-2. فایل **wch-configurator FA-EN v1_7.html** را با مرورگر به‌روز مانند Firefox، Chrome یا Edge باز کنید.
+2. فایل **wch-configurator FA-EN v1_4.html** را با مرورگر به‌روز مانند Firefox، Chrome یا Edge باز کنید.
 3. خانواده میکروکنترلر و سپس مدل دقیق تراشه را انتخاب کنید.
 4. از تب‌های GPIO، SPI، I²C، UART، TIMER، ADC یا IRQ، peripheral موردنظر را تنظیم کنید.
 5. روی **Add to configuration** کلیک کنید تا تنظیم به فهرست پیکربندی اضافه شود.
