@@ -8,13 +8,13 @@
 
 **WCH microcontroller peripheral configuration and C initialization code generation**
 
-**WCH Configurator FA-EN v1.7** is a lightweight web-based tool for selecting WCH microcontroller families and models, configuring common peripherals, and generating initial C-language initialization code.
+**WCH Configurator FA-EN v1.4** is a lightweight web-based tool for selecting WCH microcontroller families and models, configuring common peripherals, and generating initial C-language initialization code.
 
 > Select a chip, configure its peripherals, and generate initialization code — all in one lightweight web tool.
 
 ## Version and application file
 
-- **Version:** 1.7
+- **Version:** 1.4
 - **Interface languages:** فارسی / English
 - **Application file:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
 - **View application on GitHub:** [WCH Configurator v1.4](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_4.html)
