@@ -49,6 +49,16 @@
 
 <table>
   <tr>
+    <td bgcolor="#1565C0" align="center">
+      <h2><font color="#FFFFFF">🔒 نکته مهم درباره حریم خصوصی و اعتبارسنجی</font></h2>
+      <h3><font color="#FFFFFF">این برنامه به‌صورت محلی در مرورگر شما اجرا می‌شود · هیچ داده‌ای از این صفحه خارج نمی‌شود.</font></h3>
+      <font color="#FFFFFF">همیشه خروجی و تنظیمات را با دیتاشیت WCH و نمونه‌های رسمی EVT مربوط به مدل دقیق قطعه تطبیق دهید.</font>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td bgcolor="#C62828" align="center">
       <h2><font color="#FFFFFF">⚠️ هشدار مهم</font></h2>
       <h3><font color="#FFFFFF">همه پایه‌ها در تمام پکیج‌ها در دسترس نیستند.</font></h3>
