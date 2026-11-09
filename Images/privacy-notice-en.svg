@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="210" viewBox="0 0 1100 210" role="img" aria-labelledby="title desc">
+  <title id="title">Privacy and validation notice</title>
+  <desc id="desc">This application runs locally in your browser. No data from this page is transmitted elsewhere.</desc>
+  <rect x="1" y="1" width="1098" height="208" rx="18" fill="#1967C9"/>
+  <text x="550" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">🔒 PRIVACY AND VALIDATION NOTICE</text>
+  <text x="550" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">This application runs locally in your browser · No data from this page is transmitted elsewhere.</text>
+  <text x="550" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#FFFFFF">Always verify the output and settings against the WCH datasheet and official EVT examples for the exact device model.</text>
+</svg>
