@@ -48,7 +48,7 @@
 - نقشه پایه‌ها در برنامه جنبه راهنمای منطقی دارد.
 
 <p align="center">
-  <img src="./Images/privacy-notice-fa.svg" alt="نکته مهم درباره حریم خصوصی و اعتبارسنجی" width="100%">
+  <img src="./Images/privacy-notice-fa.svg?v=2" alt="نکته مهم درباره حریم خصوصی و اعتبارسنجی" width="100%">
 </p>
 
 <table>
