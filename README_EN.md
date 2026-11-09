@@ -8,16 +8,16 @@
 
 **WCH microcontroller peripheral configuration and C initialization code generation**
 
-**WCH Configurator FA-EN v1.4** is a lightweight web-based tool for selecting WCH microcontroller families and models, configuring common peripherals, and generating initial C-language initialization code.
+**WCH Configurator FA-EN v1.7** is a lightweight web-based tool for selecting WCH microcontroller families and models, configuring common peripherals, and generating initial C-language initialization code.
 
 > Select a chip, configure its peripherals, and generate initialization code — all in one lightweight web tool.
 
 ## Version and application file
 
-- **Version:** 1.4
+- **Version:** 1.7
 - **Interface languages:** فارسی / English
-- **Application file:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
-- **View application on GitHub:** [WCH Configurator v1.4](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_4.html)
+- **Application file:** [wch-configurator FA-EN v1_7.html](./wch-configurator%20FA-EN%20v1_7.html)
+- **View application on GitHub:** [WCH Configurator v1.7](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_7.html)
 
 ## Features
 
@@ -33,7 +33,7 @@
 ## How to use
 
 1. Download the HTML application file from this repository.
-2. Open **wch-configurator FA-EN v1_4.html** in an up-to-date browser such as Firefox, Chrome, or Edge.
+2. Open **wch-configurator FA-EN v1_7.html** in an up-to-date browser such as Firefox, Chrome, or Edge.
 3. Select the microcontroller family, then choose the exact chip model.
 4. Configure the required peripheral using the GPIO, SPI, I²C, UART, TIMER, ADC, or IRQ tabs.
 5. Click **Add to configuration** to add the setting to the configuration list.
