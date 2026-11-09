@@ -47,15 +47,16 @@
 - Before using the output in a real project, verify the peripheral, pin assignment, alternate-function mapping, clock configuration, interrupts, and package limitations against the datasheet for the **exact chip model**.
 - The pin map in the application is intended as a logical guide.
 
-<table>
-  <tr>
-    <td bgcolor="#1565C0" align="center">
-      <h2><font color="#FFFFFF">🔒 PRIVACY AND VALIDATION NOTICE</font></h2>
-      <h3><font color="#FFFFFF">This application runs locally in your browser · No data from this page is transmitted elsewhere.</font></h3>
-      <font color="#FFFFFF">Always verify the generated output and settings against the WCH datasheet and official EVT examples for the exact device model.</font>
-    </td>
-  </tr>
-</table>
+> [!IMPORTANT]
+> <div align="center">
+>
+> **🔒 PRIVACY AND VALIDATION NOTICE**
+>
+> **This application runs locally in your browser · No data from this page is transmitted elsewhere.**
+>
+> Always verify the generated output and settings against the WCH datasheet and official EVT examples for the exact device model.
+>
+> </div>
 
 <table>
   <tr>
