@@ -12,12 +12,25 @@
 
 > انتخاب تراشه، پیکربندی периферال‌ها و دریافت کد راه‌اندازی — در یک ابزار سبک تحت وب.
 
+## اجرای آنلاین برنامه
+
+<p align="center">
+  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_4.html">
+    <img src="https://img.shields.io/badge/اجرای_آنلاین-WCH%20Configurator-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="اجرای آنلاین WCH Configurator">
+  </a>
+</p>
+
+**[▶ ورود به WCH Configurator v1.4](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_4.html)**
+
+با کلیک روی لینک بالا، نسخه تحت وب برنامه مستقیماً در مرورگر باز می‌شود و نیازی به دانلود یا نصب ندارد.
+
 ## نسخه و فایل برنامه
 
 - **نسخه:** 1.4
 - **زبان رابط:** فارسی / English
-- **فایل برنامه:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
-- **مشاهده برنامه در GitHub:** [WCH Configurator v1.4](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_4.html)
+- **اجرای آنلاین برنامه:** [WCH Configurator v1.4](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_4.html)
+- **دریافت فایل HTML برنامه:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
+- **مشاهده سورس HTML در GitHub:** [Source Code](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_4.html)
 
 ## قابلیت‌ها
 
