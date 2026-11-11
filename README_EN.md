@@ -12,12 +12,25 @@
 
 > Select a chip, configure its peripherals, and generate initialization code — all in one lightweight web tool.
 
+## Launch the web application
+
+<p align="center">
+  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_4.html">
+    <img src="https://img.shields.io/badge/Launch-WCH%20Configurator-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch WCH Configurator">
+  </a>
+</p>
+
+**[▶ Open WCH Configurator v1.4]( https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_4.html )**
+
+The link above opens the live GitHub Pages application directly in your browser. No download or installation is required.
+
 ## Version and application file
 
 - **Version:** 1.4
 - **Interface languages:** فارسی / English
-- **Application file:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
-- **View application on GitHub:** [WCH Configurator v1.4](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_4.html)
+- **Live web application:** [WCH Configurator v1.4](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_4.html)
+- **Source HTML file:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
+- **Repository:** [MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
 
 ## Features
 
@@ -32,14 +45,13 @@
 
 ## How to use
 
-1. Download the HTML application file from this repository.
-2. Open **wch-configurator FA-EN v1_7.html** in an up-to-date browser such as Firefox, Chrome, or Edge.
-3. Select the microcontroller family, then choose the exact chip model.
-4. Configure the required peripheral using the GPIO, SPI, I²C, UART, TIMER, ADC, or IRQ tabs.
-5. Click **Add to configuration** to add the setting to the configuration list.
-6. Review the generated code in the right-hand panel.
-7. Select **Copy** or **Download .c** to use the generated code in your project.
-8. Integrate the file and code into your project in MounRiver Studio or another suitable development environment.
+1. Click **Launch WCH Configurator** above to open the web application, or open the [live application directly](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_4.html).
+2. Select the microcontroller family, then choose the exact chip model.
+3. Configure the required peripheral using the GPIO, SPI, I²C, UART, TIMER, ADC, or IRQ tabs.
+4. Click **Add to configuration** to add the setting to the configuration list.
+5. Review the generated code in the right-hand panel.
+6. Select **Copy** or **Download .c** to use the generated code in your project.
+7. Integrate the file and code into your project in MounRiver Studio or another suitable development environment.
 
 ## Important technical notes
 
@@ -72,10 +84,6 @@
 - [MounRiver Studio](https://www.mounriver.com/)
 - [WCH Downloads — Tools and SDKs](https://www.wch-ic.com/downloads)
 
-## Repository
-
-[MEMAR-ELECTRONIC-SANAT / MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
-
 ## Application screenshots and guide
 
 The screenshots below show the application's home page, peripheral configuration, usage guide, and About section. Click an image to view it at full size.
@@ -106,6 +114,9 @@ Introduction to the application and MEMAR ELECTRONIC SANAT.
 
 Design and development of electronic circuits, PCBs, embedded systems, and microcontroller configuration tools.
 
+- Telegram: [Memar Electronic](https://t.me/Memar_Electronic)
+- Instagram: [Memar.Electronic](https://www.instagram.com/Memar.Electronic)
 - GitHub: [MEMAR-ELECTRONIC-SANAT](https://github.com/MEMAR-ELECTRONIC-SANAT)
 
 ---
+
