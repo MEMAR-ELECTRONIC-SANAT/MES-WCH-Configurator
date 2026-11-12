@@ -1,5 +1,9 @@
 # MES-WCH-Configurator
 
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
+</p>
+
 <div align="right">
 
 [🇮🇷 فارسی](./README.md)　|　[🇬🇧 English](./README_EN.md)
@@ -32,6 +36,11 @@
 - **دریافت فایل HTML برنامه:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
 - **مشاهده سورس HTML در GitHub:** [Source Code](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_4.html)
 
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="WCH Configurator Features">
+</p>
+
 ## قابلیت‌ها
 
 - انتخاب خانواده‌های پشتیبانی‌شده: CH32V، CH32F، CH32X، CH32L، CH57x، CH58x و CH59x
@@ -42,6 +51,11 @@
 - کپی کد تولیدشده در کلیپ‌بورد و دریافت فایل .c
 - رابط دو‌زبانه فارسی و انگلیسی
 - بخش معرفی مجموعه **معمار الکترونیک صنعت**
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="WCH Configurator — MCU Setup and C Code Generation">
+</p>
 
 ## روش استفاده
 
@@ -118,6 +132,11 @@
 
 ![MES Divider](Images/MES-Divider.svg)
 
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Embedded Engineering Resources">
+</p>
+
 ## تهیه و تدوین
 
 **معمار الکترونیک صنعت**  
@@ -132,3 +151,8 @@
 - GitHub: [MEMAR-ELECTRONIC-SANAT](https://github.com/MEMAR-ELECTRONIC-SANAT)
 
 ---
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
+</p>
