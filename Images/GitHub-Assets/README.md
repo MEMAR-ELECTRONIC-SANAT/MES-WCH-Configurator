@@ -162,16 +162,18 @@ To display a logo in a README located at the repository root, use the following 
 
 Two MES animated logo variants are available to match different documentation layouts:
 
-<grid columns={2} gap={3}>
-  <grid-item>
-    <img src="MES_Animated_Logo_1313x1198.svg" alt="MES Animated Logo 1313x1198">
-    <caption>1313 × 1198 — Large</caption>
-  </grid-item>
-  <grid-item>
-    <img src="MES_Animated_Logo_640x480.svg" alt="MES Animated Logo 640x480">
-    <caption>640 × 480 — Compact</caption>
-  </grid-item>
-</grid>
+<table>
+  <tr>
+    <td align="center">
+      <img src="MES_Animated_Logo_1313x1198.svg" width="100%" alt="MES Animated Logo 1313x1198"><br>
+      <strong>1313 × 1198 — Large</strong>
+    </td>
+    <td align="center">
+      <img src="MES_Animated_Logo_640x480.svg" width="100%" alt="MES Animated Logo 640x480"><br>
+      <strong>640 × 480 — Compact</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
