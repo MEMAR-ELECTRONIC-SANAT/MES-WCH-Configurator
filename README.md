@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
+
 </p>
 
 # MES-WCH-Configurator
@@ -40,7 +40,6 @@
 - **دریافت فایل HTML برنامه:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
 - **مشاهده سورس HTML در GitHub:** [Source Code](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_4.html)
 
-
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="WCH Configurator Features">
 </p>
@@ -55,7 +54,6 @@
 - کپی کد تولیدشده در کلیپ‌بورد و دریافت فایل .c
 - رابط دو‌زبانه فارسی و انگلیسی
 - بخش معرفی مجموعه **معمار الکترونیک صنعت**
-
 
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="WCH Configurator — MCU Setup and C Code Generation">
@@ -138,14 +136,13 @@
   <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
 </p>
 
-
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Embedded Engineering Resources">
 </p>
 
 ## تهیه و تدوین
 
-**معمار الکترونیک صنعت**  
+**معمار الکترونیک صنعت**
 **MEMAR ELECTRONIC SANAT (MES)**
 
 همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
@@ -158,7 +155,8 @@
 
 ---
 
-
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
 </p>
+
+![MES Animated Logo](Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
