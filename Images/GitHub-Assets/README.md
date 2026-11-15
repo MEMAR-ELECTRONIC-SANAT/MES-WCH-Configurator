@@ -3,171 +3,152 @@
 
 <div dir="rtl" align="right">
 
-مجموعه‌ای از فایل‌های گرافیکی **SVG متحرک** با هویت بصری اختصاصی **معمار الکترونیک صنعت (MES)** برای استفاده در فایل‌های README، مستندات پروژه‌ها و پروفایل GitHub.
+این پوشه شامل مجموعه‌ای از دارایی‌های گرافیکی اختصاصی **معمار الکترونیک صنعت (MES)** است که برای نمایش هویت بصری مجموعه در مخازن GitHub، فایل‌های README، مستندات فنی و صفحات معرفی پروژه‌ها طراحی شده‌اند.
 
-این طرح‌ها با الهام از زبان بصری نئونی و مدارمحور پروژه [ElectroIoT](https://github.com/ElectroIoT/ElectroIoT) توسعه یافته‌اند؛ فایل‌های موجود در این مجموعه، طراحی اختصاصی MES هستند و کپی فایل‌های پروژه مذکور نیستند.
+در این نسخه، دو اندازه از لوگوی متحرک MES ارائه شده است. هر دو فایل از یک هویت بصری مشترک با پس‌زمینه سرمه‌ای تیره، جلوه‌های نورانی آبی کبالت و فیروزه‌ای و حرکت پالس‌ها و گره‌های سیگنال روی مسیرهای شبیه به خطوط مدار چاپی (PCB) استفاده می‌کنند.
 
-**هدف مجموعه:** ایجاد ظاهری یکپارچه، حرفه‌ای و قابل‌شناسایی برای مستندات و مخازن سازمان MES.
+**هدف:** فراهم‌کردن دو اندازه کاربردی از لوگوی متحرک برای استفاده در بخش‌های مختلف مستندات و معرفی پروژه‌های MES.
 
 </div>
 
-A collection of animated **SVG graphic assets** developed with the visual identity of **Memar Electronic Sanat (MES)**. These assets are intended for use in README files, project documentation, and GitHub profiles.
+This directory contains original **Memar Electronic Sanat (MES)** visual assets for GitHub repositories, README files, technical documentation, and project presentation pages.
 
-The designs take inspiration from the neon, circuit-oriented visual language of [ElectroIoT](https://github.com/ElectroIoT/ElectroIoT). However, the assets in this collection are original MES designs and are not copied from that project.
+Two sizes of the MES animated logo are provided. Both share the same visual identity: a deep navy background, cobalt-blue and cyan lighting, and animated signal pulses and nodes travelling along PCB-inspired tracks.
 
-**Purpose:** To provide a consistent, professional, and recognizable visual style across MES repositories and documentation.
-
----
-
-## پیش‌نمایش فایل‌ها | Asset Previews
-
-### جداکننده افقی | MES Divider
-
-<p align="center">
-  <img src="MES-Divider.svg" width="100%" alt="MES Divider">
-</p>
-
-### ۱. سربرگ اصلی | MES Hero Banner
-
-<p align="center">
-  <img src="MES-Hero-Banner.svg" width="100%" alt="MES Hero Banner">
-</p>
-
-### ۲. عنوان بخش | MES Section Header
-
-<p align="center">
-  <img src="MES-Section-Header.svg" width="100%" alt="MES Section Header">
-</p>
-
-### ۳. کارت معرفی پروژه | MES Project Card
-
-<p align="center">
-  <img src="MES-Project-Card.svg" width="100%" alt="MES Project Card">
-</p>
-
-### ۴. نوار وضعیت | MES Status Strip
-
-<p align="center">
-  <img src="MES-Status-Strip.svg" width="100%" alt="MES Status Strip">
-</p>
-
-### ۵. بخش پایانی | MES Thank You Footer
-
-<p align="center">
-  <img src="MES-Thank-You-Footer.svg" width="100%" alt="MES Thank You Footer">
-</p>
+**Purpose:** To provide two practical logo sizes for use throughout MES repositories and project documentation.
 
 ---
 
-## فهرست فایل‌ها و کاربردها | Asset List and Usage
+## پیش‌نمایش لوگوها | Animated Logo Previews
 
-| فایل | کاربرد |
-|---|---|
-| [MES-Divider.svg](MES-Divider.svg) | جداکننده افقی میان بخش‌های README |
-| [MES-Hero-Banner.svg](MES-Hero-Banner.svg) | سربرگ اصلی README یا پروفایل GitHub |
-| [MES-Section-Header.svg](MES-Section-Header.svg) | عنوان بصری برای بخش‌های مهم |
-| [MES-Project-Card.svg](MES-Project-Card.svg) | پنل معرفی و نمایش پروژه |
-| [MES-Status-Strip.svg](MES-Status-Strip.svg) | نوار وضعیت یا معرفی مجموعه منابع |
-| [MES-Thank-You-Footer.svg](MES-Thank-You-Footer.svg) | بخش پایانی README و پیام تشکر |
-
-| File | Purpose |
-|---|---|
-| [MES-Divider.svg](MES-Divider.svg) | Horizontal separator between README sections |
-| [MES-Hero-Banner.svg](MES-Hero-Banner.svg) | Main README or GitHub profile banner |
-| [MES-Section-Header.svg](MES-Section-Header.svg) | Visual heading for important sections |
-| [MES-Project-Card.svg](MES-Project-Card.svg) | Project introduction and showcase panel |
-| [MES-Status-Strip.svg](MES-Status-Strip.svg) | Status bar or resource collection overview |
-| [MES-Thank-You-Footer.svg](MES-Thank-You-Footer.svg) | README footer and closing message |
-
----
-
-## راهنمای استفاده در README | How to Use in a README
+### ۱. لوگوی متحرک – اندازه 1313 × 1198
 
 <div dir="rtl" align="right">
 
-نمونه کدهای زیر برای فایل README واقع در **ریشه مخزن** نوشته شده‌اند. بنابراین مسیر تصاویر از Images/GitHub-Assets/ آغاز می‌شود.
+این نسخه با ابعاد بزرگ‌تر و نسبت تصویر نزدیک به مربع، برای نمایش شاخص لوگو در صفحات معرفی، مستندات و بخش‌های گرافیکی README مناسب است.
 
 </div>
 
-The following snippets are intended for a README file located in the **repository root**. Therefore, image paths start with Images/GitHub-Assets/.
+This larger, near-square version is suitable for prominent logo presentation, project documentation, and visual sections of README files.
 
-### جداکننده افقی | Horizontal Divider
+<p align="center">
+  <img src="MES_Animated_Logo_1313x1198.svg" width="72%" alt="MES Animated Logo 1313x1198">
+</p>
+
+- [مشاهده فایل SVG](MES_Animated_Logo_1313x1198.svg)
+- [View SVG source](MES_Animated_Logo_1313x1198.svg)
+
+### ۲. لوگوی متحرک – اندازه 640 × 480
+
+<div dir="rtl" align="right">
+
+این نسخه با ابعاد خروجی کوچک‌تر، برای سربرگ README، معرفی کوتاه پروژه و محل‌هایی که فضای نمایش محدودتری دارند مناسب است.
+
+</div>
+
+This compact 640 × 480 version is suitable for README headers, project introductions, and layouts with more limited display space.
+
+<p align="center">
+  <img src="MES_Animated_Logo_640x480.svg" width="72%" alt="MES Animated Logo 640x480">
+</p>
+
+- [مشاهده فایل SVG](MES_Animated_Logo_640x480.svg)
+- [View SVG source](MES_Animated_Logo_640x480.svg)
+
+---
+
+## مقایسه و کاربرد فایل‌ها | File Comparison and Use Cases
+
+| فایل | ابعاد خروجی | کاربرد پیشنهادی |
+|---|---:|---|
+| [MES_Animated_Logo_1313x1198.svg](MES_Animated_Logo_1313x1198.svg) | 1313 × 1198 | نمایش بزرگ لوگو، صفحات معرفی و مستندات |
+| [MES_Animated_Logo_640x480.svg](MES_Animated_Logo_640x480.svg) | 640 × 480 | سربرگ README و معرفی فشرده پروژه |
+
+| File | Output Size | Recommended Use |
+|---|---:|---|
+| [MES_Animated_Logo_1313x1198.svg](MES_Animated_Logo_1313x1198.svg) | 1313 × 1198 | Large logo display, project pages, and documentation |
+| [MES_Animated_Logo_640x480.svg](MES_Animated_Logo_640x480.svg) | 640 × 480 | README headers and compact project introductions |
+
+---
+
+## راهنمای استفاده در README | How to Embed in a README
+
+<div dir="rtl" align="right">
+
+از آنجا که این فایل راهنما در همان پوشه فایل‌های SVG قرار دارد، در نمونه‌های زیر مسیر تصاویر مستقیماً نام فایل است.
+
+اگر می‌خواهید لوگو را در README واقع در ریشه مخزن نمایش دهید، مسیر کامل نسبی آن به شکل زیر خواهد بود:
+
+</div>
+
+Since this README is stored in the same directory as the SVG files, the examples below use the filenames directly.
+
+To display a logo in a README located at the repository root, use the following relative path:
+
+`Images/GitHub-Assets/`
+
+### نمایش نسخه بزرگ | Large Logo
 
 ~~~html
 <p align="center">
-  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Section Divider">
+  <img
+    src="Images/GitHub-Assets/MES_Animated_Logo_1313x1198.svg"
+    width="420"
+    alt="MES Animated Logo">
 </p>
 ~~~
 
-### سربرگ اصلی | Main Hero Banner
+### نمایش نسخه فشرده | Compact Logo
 
 ~~~html
 <p align="center">
-  <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MES — Memar Electronic Sanat">
+  <img
+    src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg"
+    width="420"
+    alt="MES Animated Logo">
 </p>
 ~~~
 
-### عنوان بخش | Section Header
+### نمایش لوگو با عرض کامل | Full-width Logo
 
 ~~~html
 <p align="center">
-  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Section Header">
-</p>
-~~~
-
-### کارت معرفی پروژه | Project Card
-
-~~~html
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="MES Project Showcase">
-</p>
-~~~
-
-### نوار وضعیت | Status Strip
-
-~~~html
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Engineering Workspace">
-</p>
-~~~
-
-### تصویر پایانی | Thank You Footer
-
-~~~html
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
+  <img
+    src="Images/GitHub-Assets/MES_Animated_Logo_1313x1198.svg"
+    width="100%"
+    alt="Memar Electronic Sanat — MES">
 </p>
 ~~~
 
 <div dir="rtl" align="right">
 
-**نکته مسیر:** اگر فایل README در پوشه‌ای غیر از ریشه مخزن قرار دارد، مسیر تصاویر را متناسب با محل فایل README اصلاح کنید. برای مثال، در همین پوشه Images/GitHub-Assets/README.md، مسیر نمایش فایل جداکننده به‌صورت MES-Divider.svg است.
+**نکته مسیر:** اگر README در پوشه دیگری قرار دارد، مسیر نسبی فایل SVG را متناسب با محل README اصلاح کنید. همچنین مقدار `width` را می‌توانید برای تنظیم اندازه نمایش تغییر دهید.
 
 </div>
 
-**Path note:** If your README is located in a directory other than the repository root, adjust the image paths accordingly. For example, in this Images/GitHub-Assets/README.md file, the divider can be referenced directly as MES-Divider.svg.
+**Path note:** If your README is stored in another directory, adjust the relative SVG path accordingly. You can also change the `width` value to control the displayed size.
 
 ---
 
-## نکات فنی | Technical Notes
+## ویژگی‌های فنی و انیمیشن | Technical and Animation Features
 
 <div dir="rtl" align="right">
 
-- تمام فایل‌ها با فرمت **SVG** تهیه شده‌اند.
-- فایل‌ها مستقل (**Self-contained**) هستند و برای اجرای انیمیشن به JavaScript یا کتابخانه خارجی نیاز ندارند.
+- فرمت هر دو فایل **SVG** است.
 - انیمیشن‌ها با قابلیت‌های استاندارد **SVG/SMIL** پیاده‌سازی شده‌اند.
-- برای نمایش تصاویر در GitHub از تگ HTML یعنی <img> استفاده کنید.
-- پشتیبانی از انیمیشن SVG ممکن است با توجه به مرورگر، محیط نمایش و سیاست‌های رندر GitHub متفاوت باشد.
-- رنگ‌های اصلی مجموعه شامل آبی تیره، آبی کبالت، فیروزه‌ای و سفید یخی هستند.
+- حرکت پالس‌های نوری روی مسیرهای مدار، جابه‌جایی گره‌های سیگنال، چرخش جزئیات مداری و تغییر شدت نور گره‌ها در انیمیشن استفاده شده است.
+- تصویر پایه لوگو به‌صورت داده تصویری درون فایل SVG قرار گرفته است؛ بنابراین برای نمایش تصویر پایه به فایل تصویری جداگانه نیاز نیست.
+- برای درج در README از تگ HTML یعنی `<img>` استفاده کنید.
+- نمایش انیمیشن SVG ممکن است با توجه به مرورگر، محیط نمایش و نحوه پردازش SVG در GitHub متفاوت باشد.
 
 </div>
 
-- All assets are provided in **SVG** format.
-- The files are **self-contained** and do not require JavaScript or external libraries for animation.
-- Animations are implemented using standard **SVG/SMIL** capabilities.
-- Use the HTML <img> tag to embed these graphics in GitHub Markdown.
-- SVG animation support may vary depending on the browser, viewing environment, and GitHub rendering behavior.
-- The primary color palette includes deep navy, cobalt blue, turquoise, and ice white.
+- Both assets use the **SVG** format.
+- Animation is implemented with standard **SVG/SMIL** features.
+- Animated effects include light pulses travelling along circuit tracks, moving signal nodes, rotating orbital details, and pulsing circuit points.
+- The base logo artwork is embedded inside each SVG file; no separate image file is required for the base artwork.
+- Use the HTML `<img>` tag to embed the logo in a README.
+- Animated SVG rendering may vary depending on the browser, viewing environment, and GitHub's SVG processing behavior.
 
 ---
 
@@ -175,15 +156,22 @@ The following snippets are intended for a README file located in the **repositor
 
 <div dir="rtl" align="right">
 
-جداکننده اختصاصی MES برای تفکیک بصری بخش‌های مستندات:
+دو نسخه لوگوی متحرک MES برای انتخاب اندازه متناسب با چیدمان مستندات:
 
 </div>
 
-The dedicated MES divider for visually separating documentation sections:
+Two MES animated logo variants are available to match different documentation layouts:
 
-<p align="center">
-  <img src="MES-Divider.svg" width="100%" alt="MES Divider">
-</p>
+<grid columns={2} gap={3}>
+  <grid-item>
+    <img src="MES_Animated_Logo_1313x1198.svg" alt="MES Animated Logo 1313x1198">
+    <caption>1313 × 1198 — Large</caption>
+  </grid-item>
+  <grid-item>
+    <img src="MES_Animated_Logo_640x480.svg" alt="MES Animated Logo 640x480">
+    <caption>640 × 480 — Compact</caption>
+  </grid-item>
+</grid>
 
 ---
 
