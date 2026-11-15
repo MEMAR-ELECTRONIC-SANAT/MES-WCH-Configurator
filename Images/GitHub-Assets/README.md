@@ -2,7 +2,7 @@
 # MES GitHub Visual Assets
 
 <p align="center">
-  <img src="MES_Animated_Logo_640x480.svg" width="420" alt="لوگوی متحرک معمار الکترونیک صنعت | MES Animated Logo">
+
 </p>
 
 <div dir="rtl" align="right">
@@ -78,7 +78,7 @@ The 1313 × 1198 near-square variant is intended for prominent brand presentatio
 The 640 × 480 variant is suitable for README headers and compact project introductions.
 
 <p align="center">
-  <img src="MES_Animated_Logo_640x480.svg" width="64%" alt="لوگوی متحرک MES با ابعاد 640 در 480">
+
 </p>
 
 [مشاهده فایل SVG](MES_Animated_Logo_640x480.svg) · [View SVG source](MES_Animated_Logo_640x480.svg)
@@ -225,10 +225,7 @@ Because this guide is stored in the same directory as the SVG assets, previews a
 
 ~~~html
 <p align="center">
-  <img
-    src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg"
-    width="420"
-    alt="MES Animated Logo">
+
 </p>
 ~~~
 
@@ -329,7 +326,7 @@ This section provides a visual overview of the graphics available in this direct
 
 <div dir="rtl" align="right">
 
-**معمار الکترونیک صنعت | MEMAR ELECTRONIC SANAT (MES)**  
+**معمار الکترونیک صنعت | MEMAR ELECTRONIC SANAT (MES)**
 همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
 
 - [گیت‌هاب | GitHub](https://github.com/MEMAR-ELECTRONIC-SANAT)
@@ -340,7 +337,7 @@ This section provides a visual overview of the graphics available in this direct
 
 </div>
 
-**Memar Electronic Sanat (MES)**  
+**Memar Electronic Sanat (MES)**
 *Your partner in designing and building reliable circuits.*
 
 - [GitHub](https://github.com/MEMAR-ELECTRONIC-SANAT)
@@ -348,3 +345,5 @@ This section provides a visual overview of the graphics available in this direct
 - [Instagram](https://www.instagram.com/Memar.Electronic)
 
 [Explore more tutorials and projects](https://github.com/MEMAR-ELECTRONIC-SANAT)
+
+![MES Animated Logo](MES_Animated_Logo_640x480.svg)
