@@ -6,41 +6,40 @@
 
 # پوشه Releases
 
-این پوشه برای نگهداری مستندات و اطلاعات مرتبط با نسخه‌های منتشرشده نرم‌افزار **WCH Configurator** در مخزن **MES-WCH-Configurator** در نظر گرفته شده است.
+این پوشه برای نگهداری مستندات و راهنمای نسخه‌های منتشرشده نرم‌افزار **WCH Configurator** در مخزن **MES-WCH-Configurator** استفاده می‌شود.
 
-## نکته مهم: تفاوت پوشه Releases با GitHub Releases
+---
 
-پوشه فعلی بخشی از فایل‌های عادی مخزن است و با قابلیت **GitHub Releases** تفاوت دارد.
+## تفاوت پوشه Releases با GitHub Releases
 
-فایل‌های اجرایی ویندوز، از جمله نسخه نصب‌شونده و قابل‌حمل، در بخش رسمی GitHub Releases منتشر می‌شوند؛ بنابراین برای دریافت آخرین نسخه نرم‌افزار از لینک زیر استفاده کنید:
+**این پوشه فقط بخشی از فایل‌های معمولی مخزن GitHub است.** فایل‌های اجرایی برنامه در این پوشه قرار نمی‌گیرند.
 
-<p align="center">
-  <a href="https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest">
-    <img src="https://img.shields.io/badge/دانلود-آخرین%20نسخه-2563EB?style=for-the-badge&logo=windows" alt="Download Latest Release">
-  </a>
-  <a href="https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases">
-    <img src="https://img.shields.io/badge/مشاهده-تمام%20نسخه‌ها-555555?style=for-the-badge&logo=github" alt="All Releases">
-  </a>
-</p>
+برای دریافت فایل‌های نصب و اجرای برنامه، باید از صفحه رسمی **GitHub Releases** استفاده کنید:
+
+### [⬇️ دریافت آخرین نسخه WCH Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest)
+
+[مشاهده فهرست تمام نسخه‌های منتشرشده](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases)
+
+---
 
 ## فایل‌های قابل دریافت
 
-در صفحه هر انتشار، در صورت ارائه خروجی دسکتاپ ویندوز، فایل‌های زیر در بخش Assets قرار می‌گیرند:
+در بخش **Assets** صفحه هر انتشار، در صورت ارائه نسخه دسکتاپ ویندوز، فایل‌های زیر قرار می‌گیرند:
 
-- **Setup.exe** — نسخه نصب‌شونده برای نصب برنامه در Windows.
-- **Portable.exe** — نسخه قابل‌حمل که بدون فرایند نصب اجرا می‌شود.
+- **Setup.exe — نسخه نصب‌شونده:** برای نصب برنامه روی Windows.
+- **Portable.exe — نسخه قابل‌حمل:** برای اجرای برنامه بدون نصب سنتی؛ مناسب استفاده از حافظه USB نیز هست.
 
-## راهنمای انتخاب نسخه
+## کدام نسخه را دریافت کنم؟
 
-- برای نصب معمول برنامه روی رایانه، نسخه **Setup** را دریافت کنید.
-- برای اجرای برنامه بدون نصب یا استفاده از حافظه USB، نسخه **Portable** مناسب است.
-- پیش از دانلود، شماره نسخه و توضیحات همان انتشار را بررسی کنید.
+- برای نصب معمول و استفاده دائمی، فایل **Setup.exe** را دریافت کنید.
+- برای اجرای برنامه بدون نصب، فایل **Portable.exe** را دریافت کنید.
+- پیش از دانلود، شماره نسخه و توضیحات انتشار را بررسی کنید.
 
-## اطلاعات پروژه
+## پیوندهای پروژه
 
-- مخزن اصلی: [MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
-- صفحه انتشارها: [GitHub Releases](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases)
-- آخرین نسخه: [Latest Release](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest)
+- [مخزن اصلی MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
+- [صفحه GitHub Releases](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases)
+- [آخرین نسخه منتشرشده](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest)
 
 </div>
 
@@ -50,41 +49,40 @@
 
 # Releases Directory
 
-This directory is reserved for documentation and information related to the published versions of **WCH Configurator** in the **MES-WCH-Configurator** repository.
+This directory contains documentation and guidance for published versions of **WCH Configurator** in the **MES-WCH-Configurator** repository.
 
-## Important: Releases Directory vs. GitHub Releases
+---
 
-This is a regular directory within the repository. It is different from GitHub's dedicated **Releases** feature.
+## Releases Directory vs. GitHub Releases
 
-Windows executable packages, including the installer and portable edition, are distributed through the official GitHub Releases page. Use the links below to download the software.
+**This is a regular folder in the GitHub repository.** Application installers and executable packages are not stored here.
 
-<p align="center">
-  <a href="https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Latest%20Version-2563EB?style=for-the-badge&logo=windows" alt="Download Latest Release">
-  </a>
-  <a href="https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases">
-    <img src="https://img.shields.io/badge/View-All%20Releases-555555?style=for-the-badge&logo=github" alt="All Releases">
-  </a>
-</p>
+To download the Windows application, visit the official **GitHub Releases** page:
 
-## Available Packages
+### [⬇️ Download the Latest WCH Configurator Version](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest)
 
-When a Windows desktop build is provided, the release assets may include:
+[Browse all published versions](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases)
 
-- **Setup.exe** — Installer package for installing the application on Windows.
-- **Portable.exe** — Portable package that runs without a traditional installation process.
+---
 
-## Which Package Should You Choose?
+## Available Download Files
 
-- Choose **Setup** for a standard installation on your computer.
-- Choose **Portable** to run the application without installing it, including from a USB drive.
-- Check the version number and release notes before downloading.
+When a Windows desktop build is included, the release **Assets** may contain:
+
+- **Setup.exe — Installer:** Installs the application on Windows.
+- **Portable.exe — Portable edition:** Runs without a conventional installation and can also be used from a USB drive.
+
+## Which File Should You Download?
+
+- Choose **Setup.exe** for a standard installation.
+- Choose **Portable.exe** if you want to run the application without installing it.
+- Always check the version number and release notes before downloading.
 
 ## Project Links
 
-- Main repository: [MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
-- All releases: [GitHub Releases](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases)
-- Latest release: [Latest Release](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest)
+- [Main MES-WCH-Configurator repository](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
+- [GitHub Releases](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases)
+- [Latest Release](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest)
 
 </div>
 
