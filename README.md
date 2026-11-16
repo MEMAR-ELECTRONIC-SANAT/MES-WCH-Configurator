@@ -198,65 +198,87 @@ The GitHub Pages entry point, index.html, automatically redirects to the v1.6 ap
 
 # تصاویر و دیاگرام‌های راهنما | Application Screenshots and Guide
 
-تصاویر زیر بخش‌های مختلف برنامه را نشان می‌دهند. برای مشاهده هر تصویر در اندازه کامل، روی آن کلیک کنید.
+در این بخش، تصاویر برنامه بر اساس زبان رابط کاربری در دو مجموعه مستقل ارائه شده‌اند.
 
-The screenshots below illustrate the main application areas. Click any image to view it at full size.
+This section contains two separate screenshot galleries, organized by the application interface language.
 
-## صفحه اصلی برنامه | Application Home Page
+## تصاویر نسخه فارسی (FA)
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider — Persian Gallery">
+</p>
+
+### صفحه اصلی برنامه | Application Home Page
 
 <p align="center">
   <a href="./Images/Home%20Page%20FA.jpg">
-    <img src="./Images/Home%20Page%20FA.jpg" alt="صفحه اصلی WCH Configurator" width="90%">
+    <img src="./Images/Home%20Page%20FA.jpg" alt="صفحه اصلی WCH Configurator — نسخه فارسی" width="90%">
   </a>
 </p>
 
-<p align="center">
-  <a href="./Images/Home%20Page%20EN.jpg">
-    <img src="./Images/Home%20Page%20EN.jpg" alt="WCH Configurator home page" width="90%">
-  </a>
-</p>
-
-## تنظیم peripheralها | Peripheral Configuration
+### تنظیم peripheralها | Peripheral Configuration
 
 <p align="center">
   <a href="./Images/peripherals%20FA.jpg">
-    <img src="./Images/peripherals%20FA.jpg" alt="تنظیم peripheralها در WCH Configurator" width="90%">
+    <img src="./Images/peripherals%20FA.jpg" alt="تنظیم peripheralها در WCH Configurator — نسخه فارسی" width="90%">
   </a>
 </p>
 
-<p align="center">
-  <a href="./Images/peripherals%20EN.jpg">
-    <img src="./Images/peripherals%20EN.jpg" alt="WCH Configurator peripheral settings" width="90%">
-  </a>
-</p>
-
-## راهنمای استفاده | User Guide
+### راهنمای استفاده | User Guide
 
 <p align="center">
   <a href="./Images/Help%20FA.jpg">
-    <img src="./Images/Help%20FA.jpg" alt="راهنمای استفاده از WCH Configurator" width="90%">
+    <img src="./Images/Help%20FA.jpg" alt="راهنمای استفاده از WCH Configurator — نسخه فارسی" width="90%">
   </a>
 </p>
 
-<p align="center">
-  <a href="./Images/Help%20EN.jpg">
-    <img src="./Images/Help%20EN.jpg" alt="WCH Configurator user guide" width="90%">
-  </a>
-</p>
-
-## درباره برنامه | About the Application
+### درباره برنامه | About the Application
 
 <p align="center">
   <a href="./Images/About%20FA.jpg">
-    <img src="./Images/About%20FA.jpg" alt="درباره WCH Configurator" width="90%">
+    <img src="./Images/About%20FA.jpg" alt="درباره WCH Configurator — نسخه فارسی" width="90%">
   </a>
 </p>
 
+## English Version (EN)
+
 <p align="center">
-  <a href="./Images/About%20EN.jpg">
-    <img src="./Images/About%20EN.jpg" alt="About WCH Configurator" width="90%">
+  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider — English Gallery">
+</p>
+
+### Application Home Page
+
+<p align="center">
+  <a href="./Images/Home%20Page%20EN.jpg">
+    <img src="./Images/Home%20Page%20EN.jpg" alt="WCH Configurator home page — English version" width="90%">
   </a>
 </p>
+
+### Peripheral Configuration
+
+<p align="center">
+  <a href="./Images/peripherals%20EN.jpg">
+    <img src="./Images/peripherals%20EN.jpg" alt="WCH Configurator peripheral settings — English version" width="90%">
+  </a>
+</p>
+
+### User Guide
+
+<p align="center">
+  <a href="./Images/Help%20EN.jpg">
+    <img src="./Images/Help%20EN.jpg" alt="WCH Configurator user guide — English version" width="90%">
+  </a>
+</p>
+
+### About the Application
+
+<p align="center">
+  <a href="./Images/About%20EN.jpg">
+    <img src="./Images/About%20EN.jpg" alt="About WCH Configurator — English version" width="90%">
+  </a>
+</p>
+
+### تصاویر هویت بصری MES | Shared MES Visual Assets
 
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Project Section">
@@ -264,10 +286,6 @@ The screenshots below illustrate the main application areas. Click any image to 
 
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="WCH Configurator — MCU Setup and C Code Generation">
-</p>
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
 </p>
 
 <p align="center">
