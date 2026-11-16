@@ -10,29 +10,40 @@
 
 **پیکربندی پریفراال‌های میکروکنترلرهای WCH و تولید کد راه‌اندازی C**
 
-ابزار **WCH Configurator FA-EN v1.6** برای انتخاب خانواده و مدل میکروکنترلرهای WCH، تنظیم پریفراال‌های رایج و تولید کد اولیه راه‌اندازی به زبان C طراحی شده است.
+ابزار **WCH Configurator FA-EN v1.7** برای انتخاب خانواده و مدل میکروکنترلرهای WCH، تنظیم پریفراال‌های رایج و تولید کد اولیه راه‌اندازی به زبان C طراحی شده است.
 
 > انتخاب تراشه، پیکربندی периферال‌ها و دریافت کد راه‌اندازی — در یک ابزار سبک تحت وب.
 
 ## اجرای آنلاین برنامه
 
 <p align="center">
-  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">
+  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html">
     <img src="https://img.shields.io/badge/اجرای_آنلاین-WCH%20Configurator-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="اجرای آنلاین WCH Configurator">
   </a>
 </p>
 
-**[▶ ورود به WCH Configurator v1.6](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)**
+**[▶ ورود به WCH Configurator v1.7](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html)**
 
 با کلیک روی لینک بالا، نسخه تحت وب برنامه مستقیماً در مرورگر باز می‌شود و نیازی به دانلود یا نصب ندارد.
 
 ## نسخه و فایل برنامه
 
-- **نسخه:** 1.6
+- **نسخه:** 1.7
 - **زبان رابط:** فارسی / English
-- **اجرای آنلاین برنامه:** [WCH Configurator v1.6](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)
-- **دریافت فایل HTML برنامه:** [WCH-Configurator-FA-EN-v1_6.html](./WCH-Configurator-FA-EN-v1_6.html)
-- **مشاهده سورس HTML در GitHub:** [Source Code](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/WCH-Configurator-FA-EN-v1_6.html)
+- **اجرای آنلاین برنامه:** [WCH Configurator v1.7](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html)
+- **دریافت فایل HTML برنامه:** [WCH-Configurator-FA-EN-v1_7.html](./WCH-Configurator-FA-EN-v1_7.html)
+- **مشاهده سورس HTML در GitHub:** [Source Code](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/WCH-Configurator-FA-EN-v1_7.html)
+
+### نسخه دسکتاپ ویندوز (Windows Desktop)
+
+نسخه 1.7 علاوه بر اجرای مستقیم فایل HTML در مرورگر، راهنمای استفاده از دو خروجی دسکتاپ ویندوز را نیز در بخش **Help** ارائه می‌کند:
+
+- **Installer:** نصب برنامه در ویندوز و ایجاد میانبر در Desktop یا Start Menu.
+- **Portable:** اجرای مستقیم برنامه بدون نیاز به نصب؛ مناسب برای نگهداری در پوشه دلخواه یا حافظه USB.
+- هر دو خروجی برای Windows 64-bit (x64) در نظر گرفته شده‌اند و برای اجرا به Node.js یا مرورگر نیاز ندارند.
+
+> فایل‌های اجرایی Installer و Portable را فقط در صورتی می‌توان از مخزن دریافت کرد که فایل‌های مربوطه در بخش Releases یا فایل‌های مخزن منتشر شده باشند.
+
 
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="WCH Configurator Features">
@@ -113,32 +124,43 @@
 
 ## Overview
 
-**WCH Configurator FA-EN v1.6** is a bilingual web-based utility for selecting WCH microcontrollers, configuring common peripherals, and generating initial C-language initialization code.
+**WCH Configurator FA-EN v1.7** is a bilingual web-based utility for selecting WCH microcontrollers, configuring common peripherals, and generating initial C-language initialization code.
 
 It is intended to simplify the initial MCU configuration workflow and provide a practical starting point for embedded firmware projects.
 
 ## Launch the Web Application
 
 <p align="center">
-  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">
-    <img src="https://img.shields.io/badge/Launch%20Web%20App-WCH%20Configurator%20v1.6-155EEF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Launch WCH Configurator v1.6">
+  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html">
+    <img src="https://img.shields.io/badge/Launch%20Web%20App-WCH%20Configurator%20v1.7-155EEF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Launch WCH Configurator v1.7">
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">▶ Launch WCH Configurator v1.6</a></strong>
+  <strong><a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html">▶ Launch WCH Configurator v1.7</a></strong>
 </p>
 
-The GitHub Pages entry point, index.html, automatically redirects to the v1.6 application. No download or installation is required to use the online version.
+The GitHub Pages entry point, index.html, automatically redirects to the v1.7 application. No download or installation is required to use the online version.
 
 ## Version and Project Files
 
-- **Application version:** 1.6
+- **Application version:** 1.7
 - **Interface languages:** Persian / English
-- **Live application:** [GitHub Pages](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)
+- **Live application:** [GitHub Pages](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html)
 - **GitHub Pages entry point:** [index.html](./index.html)
-- **Main application file:** [WCH-Configurator-FA-EN-v1_6.html](./WCH-Configurator-FA-EN-v1_6.html)
+- **Main application file:** [WCH-Configurator-FA-EN-v1_7.html](./WCH-Configurator-FA-EN-v1_7.html)
 - **Repository:** [MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
+
+### Windows Desktop Editions
+
+Version 1.7 also documents two Windows desktop distribution formats in the **Help** section:
+
+- **Installer:** Installs the application and provides Desktop or Start Menu shortcuts.
+- **Portable:** Runs directly without a separate installation and can be stored in a folder or on a USB drive.
+- Both editions target Windows 64-bit (x64) and do not require Node.js or a web browser at runtime.
+
+> Installer and Portable executables are downloadable only if their corresponding files have been published in the repository or its Releases.
+
 
 ## Features
 
