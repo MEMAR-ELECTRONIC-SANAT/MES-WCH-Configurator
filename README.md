@@ -17,22 +17,22 @@
 ## اجرای آنلاین برنامه
 
 <p align="center">
-  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_6.html">
+  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">
     <img src="https://img.shields.io/badge/اجرای_آنلاین-WCH%20Configurator-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="اجرای آنلاین WCH Configurator">
   </a>
 </p>
 
-**[▶ ورود به WCH Configurator v1.6](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_6.html)**
+**[▶ ورود به WCH Configurator v1.6](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)**
 
 با کلیک روی لینک بالا، نسخه تحت وب برنامه مستقیماً در مرورگر باز می‌شود و نیازی به دانلود یا نصب ندارد.
 
 ## نسخه و فایل برنامه
 
-- **نسخه:** 1.4
+- **نسخه:** 1.6
 - **زبان رابط:** فارسی / English
-- **اجرای آنلاین برنامه:** [WCH Configurator v1.6](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_6.html)
-- **دریافت فایل HTML برنامه:** [wch-configurator FA-EN v1_6.html](./wch-configurator%20FA-EN%20v1_6.html)
-- **مشاهده سورس HTML در GitHub:** [Source Code](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/wch-configurator%20FA-EN%20v1_6.html)
+- **اجرای آنلاین برنامه:** [WCH Configurator v1.6](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)
+- **دریافت فایل HTML برنامه:** [WCH-Configurator-FA-EN-v1_6.html](./WCH-Configurator-FA-EN-v1_6.html)
+- **مشاهده سورس HTML در GitHub:** [Source Code](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/blob/main/WCH-Configurator-FA-EN-v1_6.html)
 
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="WCH Configurator Features">
@@ -295,4 +295,6 @@ The screenshots below illustrate the main application areas. Click any image to 
   <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
 </p>
 
-![MES Animated Logo](Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
+<p align="center">
+  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
+</p>
