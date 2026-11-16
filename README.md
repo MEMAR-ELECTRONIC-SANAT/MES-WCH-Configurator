@@ -188,11 +188,14 @@ Version 1.7 also documents two Windows desktop distribution formats in the **Hel
 
 Windows desktop builds are distributed through the official **GitHub Releases** page:
 
-<p align="center">
-  <a href="https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest">
-    <img src="https://img.shields.io/badge/Download%20Latest-Windows%20x64-155EEF?style=for-the-badge&logo=windows&logoColor=white" alt="Download the latest Windows release">
-  </a>
-</p>
+<table>
+  <tr>
+    <td bgcolor="#155EEF" align="center">
+      <h2><a href="https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest"><font color="#FFFFFF">⬇ Download Windows Desktop Edition (x64)</font></a></h2>
+      <h3><font color="#FFFFFF">Get the Setup installer or Portable edition from the latest release</font></h3>
+    </td>
+  </tr>
+</table>
 
 - [Browse all releases and version notes](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases)
 - **Setup.exe:** Installs the application and creates shortcuts.
