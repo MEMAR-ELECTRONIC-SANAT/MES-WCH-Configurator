@@ -1,12 +1,18 @@
 # MES-WCH-Configurator
 
 <p align="center">
+  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
+</p>
+
+<p align="center">
   <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
 </p>
 
 <p align="center">
   <a href="#نسخه-فارسی">🇮🇷 فارسی</a>　|　<a href="#english-version">🇬🇧 English</a>
 </p>
+
+<div dir="rtl" align="right">
 
 **پیکربندی پریفراال‌های میکروکنترلرهای WCH و تولید کد راه‌اندازی C**
 
@@ -133,6 +139,8 @@
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Embedded Engineering Resources">
 </p>
+
+</div>
 
 # English Version
 
