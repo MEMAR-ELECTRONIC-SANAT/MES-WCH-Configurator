@@ -14,21 +14,22 @@
 
 <div dir="rtl" align="right">
 
-**پیکربندی پریفراال‌های میکروکنترلرهای WCH و تولید کد راه‌اندازی C**
+**پیکربندی واحدهای جانبی میکروکنترلرهای WCH و تولید کد راه‌اندازی C**
 
-ابزار **WCH Configurator FA-EN v1.7** برای انتخاب خانواده و مدل میکروکنترلرهای WCH، تنظیم پریفراال‌های رایج و تولید کد اولیه راه‌اندازی به زبان C طراحی شده است.
+ابزار **WCH Configurator FA-EN v1.7** برای انتخاب خانواده و مدل میکروکنترلرهای WCH، تنظیم واحدهای جانبی (Peripherals) و تولید کد اولیه راه‌اندازی به زبان C طراحی شده است.
 
-> انتخاب تراشه، پیکربندی периферال‌ها و دریافت کد راه‌اندازی — در یک ابزار سبک تحت وب.
+> انتخاب تراشه، پیکربندی واحدهای جانبی و دریافت کد راه‌اندازی — در یک ابزار سبک تحت وب.
 
 ## اجرای آنلاین برنامه
 
-<p align="center">
-  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html">
-    <img src="https://img.shields.io/badge/اجرای_آنلاین-WCH%20Configurator-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="اجرای آنلاین WCH Configurator">
-  </a>
-</p>
-
-**[▶ ورود به WCH Configurator v1.7](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html)**
+<table>
+  <tr>
+    <td bgcolor="#155EEF" align="center">
+      <h2><a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html"><font color="#FFFFFF">▶ اجرای آنلاین WCH Configurator v1.7</font></a></h2>
+      <h3><font color="#FFFFFF">باز کردن مستقیم برنامه در مرورگر — بدون نیاز به دانلود یا نصب</font></h3>
+    </td>
+  </tr>
+</table>
 
 با کلیک روی لینک بالا، نسخه تحت وب برنامه مستقیماً در مرورگر باز می‌شود و نیازی به دانلود یا نصب ندارد.
 
@@ -52,11 +53,14 @@
 
 فایل‌های اجرایی نسخه دسکتاپ از بخش رسمی **GitHub Releases** منتشر می‌شوند:
 
-<p align="center">
-  <a href="https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest">
-    <img src="https://img.shields.io/badge/دانلود_آخرین_نسخه-Windows%20x64-155EEF?style=for-the-badge&logo=windows&logoColor=white" alt="دانلود آخرین نسخه ویندوز">
-  </a>
-</p>
+<table>
+  <tr>
+    <td bgcolor="#155EEF" align="center">
+      <h2><a href="https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest"><font color="#FFFFFF">⬇ دریافت نسخه دسکتاپ ویندوز (Windows x64)</font></a></h2>
+      <h3><font color="#FFFFFF">دانلود فایل نصب‌شونده Setup یا نسخه قابل‌حمل Portable از آخرین انتشار</font></h3>
+    </td>
+  </tr>
+</table>
 
 - [مشاهده تمام نسخه‌ها و تغییرات (Releases)](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases)
 - **Setup.exe:** نصب برنامه در Windows و ایجاد میانبر.
@@ -88,7 +92,7 @@
 
 1. روی دکمه **اجرای آنلاین** در بالای این صفحه کلیک کنید.
 2. خانواده میکروکنترلر و سپس مدل دقیق تراشه را انتخاب کنید.
-3. peripheral موردنظر را از بخش‌های GPIO، SPI، I²C، UART، TIMER، ADC یا IRQ پیکربندی کنید.
+3. واحد جانبی موردنظر (Peripheral) را از بخش‌های GPIO، SPI، I²C، UART، TIMER، ADC یا IRQ پیکربندی کنید.
 4. روی **Add to configuration** کلیک کنید تا تنظیم به فهرست پیکربندی اضافه شود.
 5. نقشه پایه‌ها و کد تولیدشده را بررسی کنید.
 6. با گزینه **Copy** کد را کپی یا با گزینه **Download .c** آن را دریافت کنید.
@@ -152,15 +156,14 @@ It is intended to simplify the initial MCU configuration workflow and provide a 
 
 ## Launch the Web Application
 
-<p align="center">
-  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html">
-    <img src="https://img.shields.io/badge/Launch%20Web%20App-WCH%20Configurator%20v1.7-155EEF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Launch WCH Configurator v1.7">
-  </a>
-</p>
-
-<p align="center">
-  <strong><a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html">▶ Launch WCH Configurator v1.7</a></strong>
-</p>
+<table>
+  <tr>
+    <td bgcolor="#155EEF" align="center">
+      <h2><a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/WCH-Configurator-FA-EN-v1_7.html"><font color="#FFFFFF">▶ Launch WCH Configurator v1.7 — Online</font></a></h2>
+      <h3><font color="#FFFFFF">Open directly in your browser — no download or installation required</font></h3>
+    </td>
+  </tr>
+</table>
 
 The GitHub Pages entry point, index.html, automatically redirects to the v1.7 application. No download or installation is required to use the online version.
 
