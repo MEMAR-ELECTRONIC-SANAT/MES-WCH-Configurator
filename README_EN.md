@@ -1,67 +1,175 @@
 <p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
+  <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
 </p>
 
 # MES-WCH-Configurator
 
-<div align="right">
+<p align="center">
 
-[🇮🇷 فارسی](./README.md)　|　[🇬🇧 English](./README_EN.md)
+[🇮🇷 فارسی](#نسخه-فارسی)　|　[🇬🇧 English](#english-version)
 
-</div>
-
-**WCH microcontroller peripheral configuration and C initialization code generation**
-
-**WCH Configurator FA-EN v1.4** is a lightweight web-based tool for selecting WCH microcontroller families and models, configuring common peripherals, and generating initial C-language initialization code.
-
-> Select a chip, configure its peripherals, and generate initialization code — all in one lightweight web tool.
-
-## Launch the web application
+</p>
 
 <p align="center">
-  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_4.html">
-    <img src="https://img.shields.io/badge/Launch-WCH%20Configurator-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch WCH Configurator">
+  <strong>WCH Microcontroller Peripheral Configurator & C Initialization Code Generator</strong>
+</p>
+
+<p align="center">
+  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">
+    <img src="https://img.shields.io/badge/Launch-WCH%20Configurator%20v1.6-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch WCH Configurator v1.6">
   </a>
 </p>
 
-**[▶ Open WCH Configurator v1.4]( https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_4.html )**
+---
 
-The link above opens the live GitHub Pages application directly in your browser. No download or installation is required.
+# نسخه فارسی
 
-## Version and application file
+## معرفی
 
-- **Version:** 1.4
-- **Interface languages:** فارسی / English
-- **Live web application:** [WCH Configurator v1.4](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_4.html)
-- **Source HTML file:** [wch-configurator FA-EN v1_4.html](./wch-configurator%20FA-EN%20v1_4.html)
+**WCH Configurator FA-EN v1.6** یک ابزار تحت وب و دوزبانه برای انتخاب میکروکنترلرهای شرکت WCH، پیکربندی peripheralهای متداول و تولید کد اولیه راه‌اندازی به زبان C است.
+
+این ابزار با هدف ساده‌تر کردن مرحله پیکربندی اولیه میکروکنترلر و آماده‌سازی ساختار کد برای استفاده در پروژه‌های embedded توسعه داده شده است.
+
+> انتخاب خانواده و مدل تراشه، تنظیم peripheralها، مشاهده نقشه پایه‌ها و تولید کد C در یک محیط یکپارچه.
+
+## اجرای آنلاین برنامه
+
+<p align="center">
+  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">
+    <img src="https://img.shields.io/badge/اجرای_آنلاین-WCH%20Configurator%20v1.6-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="اجرای آنلاین WCH Configurator نسخه 1.6">
+  </a>
+</p>
+
+**[▶ اجرای WCH Configurator v1.6](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)**
+
+با مراجعه به نشانی بالا، نسخه 1.6 برنامه مستقیماً در مرورگر اجرا می‌شود. برای استفاده از نسخه آنلاین، نیازی به دانلود یا نصب برنامه نیست.
+
+## نسخه و فایل‌های پروژه
+
+- **نسخه برنامه:** 1.6
+- **زبان رابط کاربری:** فارسی / English
+- **اجرای آنلاین:** [GitHub Pages](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)
+- **فایل اصلی برنامه:** [WCH-Configurator-FA-EN-v1_6.html](./WCH-Configurator-FA-EN-v1_6.html)
+- **فایل ورودی GitHub Pages:** [index.html](./index.html)
+- **مخزن پروژه:** [MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
+
+## قابلیت‌ها
+
+- انتخاب خانواده‌های میکروکنترلر WCH شامل CH32V، CH32F، CH32X، CH32L، CH57x، CH58x و CH59x
+- انتخاب مدل میکروکنترلر از فهرست خانواده مربوطه
+- پیکربندی GPIO، SPI، I²C، UART، TIMER، ADC و IRQ / EXTI
+- نمایش نقشه منطقی پایه‌ها و تنظیمات انتخاب‌شده
+- تولید کد اولیه راه‌اندازی C متناسب با خانواده انتخاب‌شده
+- کپی کد تولیدشده در کلیپ‌بورد
+- دریافت خروجی کد در قالب فایل C
+- رابط کاربری دوزبانه فارسی و انگلیسی
+- بخش راهنما و معرفی مجموعه معمار الکترونیک صنعت
+
+## روش استفاده
+
+1. روی دکمه **اجرای آنلاین** در بالای این صفحه کلیک کنید.
+2. خانواده میکروکنترلر موردنظر را انتخاب کنید.
+3. مدل دقیق تراشه را از فهرست انتخاب کنید.
+4. از بخش‌های GPIO، SPI، I²C، UART، TIMER، ADC یا IRQ، peripheral موردنظر را پیکربندی کنید.
+5. با انتخاب **Add to configuration** تنظیم را به فهرست پیکربندی اضافه کنید.
+6. نقشه پایه‌ها و کد تولیدشده را بررسی کنید.
+7. با گزینه **Copy** کد را کپی یا با گزینه **Download .c** آن را دریافت کنید.
+8. کد را در پروژه خود در MounRiver Studio یا محیط توسعه مناسب ادغام کنید.
+
+## نکات فنی و محدودیت‌ها
+
+- خروجی برنامه، کد اولیه راه‌اندازی است و جایگزین دیتاشیت، Reference Manual و مثال‌های رسمی SDK/EVT نیست.
+- تخصیص پایه‌ها، Alternate Function، کلاک، وقفه‌ها و قابلیت‌های peripheral باید با دیتاشیت **مدل و پکیج دقیق** میکروکنترلر تطبیق داده شوند.
+- نقشه پایه‌ها در برنامه یک راهنمای منطقی است و لزوماً نشان‌دهنده اتصال فیزیکی تمام پایه‌ها در همه پکیج‌ها نیست.
+- الگوی تولید کد با توجه به خانواده انتخاب‌شده تغییر می‌کند. خانواده‌های CH32V/CH32F/CH32X/CH32L از الگوی کتابخانه‌های متناسب خود و خانواده‌های BLE سری CH57x/CH58x/CH59x از الگوی SDK مربوط استفاده می‌کنند.
+- ممکن است برای برخی پیکربندی‌ها، کد تولیدشده به تکمیل یا اصلاح دستی نیاز داشته باشد.
+- پس از ادغام کد، پروژه را کامپایل کرده و روی سخت‌افزار واقعی آزمایش کنید.
+
+<p align="center">
+  <img src="./Images/privacy-notice-fa.svg" alt="نکته مهم درباره حریم خصوصی و اعتبارسنجی" width="100%">
+</p>
+
+<table>
+  <tr>
+    <td bgcolor="#C62828" align="center">
+      <h2><font color="#FFFFFF">⚠️ هشدار مهم</font></h2>
+      <h3><font color="#FFFFFF">همه پایه‌ها در تمام پکیج‌ها در دسترس نیستند.</font></h3>
+      <font color="#FFFFFF">پیش از طراحی PCB یا اتصال سخت‌افزار، تعداد پایه‌ها و قابلیت‌های قابل‌استفاده را در دیتاشیت پکیج دقیق میکروکنترلر بررسی کنید.</font>
+    </td>
+  </tr>
+</table>
+
+## منابع رسمی WCH
+
+- [وب‌سایت رسمی WCH](https://www.wch-ic.com/)
+- [مخزن WCH Open Source در GitHub](https://github.com/openwch)
+- [MounRiver Studio](https://www.mounriver.com/)
+- [دریافت ابزارها و SDKهای WCH](https://www.wch-ic.com/downloads)
+
+---
+
+# English Version
+
+## Overview
+
+**WCH Configurator FA-EN v1.6** is a bilingual web-based utility for selecting WCH microcontrollers, configuring common peripherals, and generating initial C-language initialization code.
+
+It is designed to simplify the initial MCU configuration workflow and provide a useful starting point for embedded firmware projects.
+
+> Select an MCU family and device, configure peripherals, inspect the logical pin map, and generate C initialization code in one interface.
+
+## Launch the Web Application
+
+<p align="center">
+  <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">
+    <img src="https://img.shields.io/badge/Launch%20Web%20App-WCH%20Configurator%20v1.6-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch WCH Configurator v1.6">
+  </a>
+</p>
+
+**[▶ Launch WCH Configurator v1.6](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)**
+
+The link opens the latest application directly in your browser. No download or installation is required to use the online version.
+
+## Version and Project Files
+
+- **Application version:** 1.6
+- **Interface languages:** Persian / English
+- **Live application:** [GitHub Pages](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)
+- **Main application file:** [WCH-Configurator-FA-EN-v1_6.html](./WCH-Configurator-FA-EN-v1_6.html)
+- **GitHub Pages entry point:** [index.html](./index.html)
 - **Repository:** [MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
 
 ## Features
 
-- Supports the CH32V, CH32F, CH32X, CH32L, CH57x, CH58x, and CH59x microcontroller families
-- Select a microcontroller model from the corresponding family
+- Supports the CH32V, CH32F, CH32X, CH32L, CH57x, CH58x, and CH59x MCU families
+- Select an MCU model from the corresponding family
 - Configure GPIO, SPI, I²C, UART, TIMER, ADC, and IRQ / EXTI
 - Display a logical pin map and selected configurations
-- Generate C initialization code based on the selected family
-- Copy generated code to the clipboard or download it as a .c file
-- Persian and English user interface
-- Information about **MEMAR ELECTRONIC SANAT**
+- Generate initial C initialization code according to the selected family
+- Copy generated code to the clipboard
+- Download generated source code as a C file
+- Bilingual Persian and English user interface
+- Built-in help and an About section for MEMAR ELECTRONIC SANAT
 
-## How to use
+## How to Use
 
-1. Click **Launch WCH Configurator** above to open the web application, or open the [live application directly](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/wch-configurator%20FA-EN%20v1_4.html).
-2. Select the microcontroller family, then choose the exact chip model.
-3. Configure the required peripheral using the GPIO, SPI, I²C, UART, TIMER, ADC, or IRQ tabs.
-4. Click **Add to configuration** to add the setting to the configuration list.
-5. Review the generated code in the right-hand panel.
-6. Select **Copy** or **Download .c** to use the generated code in your project.
-7. Integrate the file and code into your project in MounRiver Studio or another suitable development environment.
+1. Click the **Launch Web App** button above.
+2. Select the required microcontroller family.
+3. Choose the exact MCU model.
+4. Configure the required peripheral using the GPIO, SPI, I²C, UART, TIMER, ADC, or IRQ sections.
+5. Click **Add to configuration** to add the selected setting.
+6. Review the logical pin map and generated source code.
+7. Use **Copy** to copy the code or **Download .c** to save it.
+8. Integrate the generated code into your project using MounRiver Studio or another suitable development environment.
 
-## Important technical notes
+## Technical Notes and Limitations
 
-- The generated output is **initialization code**. It is not a substitute for checking the datasheet, Reference Manual, and official SDK/EVT examples.
-- Before using the output in a real project, verify the peripheral, pin assignment, alternate-function mapping, clock configuration, interrupts, and package limitations against the datasheet for the **exact chip model**.
-- The pin map in the application is intended as a logical guide.
+- The generated output is initial setup code. It is not a replacement for the device datasheet, Reference Manual, or official SDK/EVT examples.
+- Verify pin assignments, alternate functions, clock settings, interrupts, and peripheral availability against the datasheet for the **exact MCU model and package**.
+- The pin map is a logical reference and does not necessarily represent the physical availability of every pin in every package.
+- Code-generation patterns depend on the selected family. CH32V/CH32F/CH32X/CH32L families use their corresponding library patterns, while BLE families CH57x/CH58x/CH59x use their respective SDK patterns.
+- Some configurations may require manual code completion or modification.
+- Compile the integrated project and test it on the actual target hardware.
 
 <p align="center">
   <img src="./Images/privacy-notice-en.svg" alt="Privacy and validation notice" width="100%">
@@ -77,46 +185,114 @@ The link above opens the live GitHub Pages application directly in your browser.
   </tr>
 </table>
 
-- Code is generated according to the selected family. CH32V/CH32F/CH32X/CH32L families use their corresponding library patterns, while BLE families CH57x/CH58x/CH59x use their respective SDK patterns.
-- In some cases, especially with multiple peripherals or special configurations, the generated code may need to be completed or modified manually.
-- After integration, compile the project and test it on the actual hardware. The generated output does not guarantee electrical correctness or compatibility with every model.
+## Official WCH Resources
 
-## Official WCH resources
-
-- [WCH — Official website](https://www.wch-ic.com/)
+- [WCH Official Website](https://www.wch-ic.com/)
 - [WCH Open Source — GitHub](https://github.com/openwch)
 - [MounRiver Studio](https://www.mounriver.com/)
 - [WCH Downloads — Tools and SDKs](https://www.wch-ic.com/downloads)
 
-## Application screenshots and guide
+---
 
-The screenshots below show the application's home page, peripheral configuration, usage guide, and About section. Click an image to view it at full size.
+# تصاویر و دیاگرام‌های راهنما | Application Screenshots and Guide
 
-### Application home page
-[![WCH Configurator home page](./Images/Home%20Page%20EN.jpg)](./Images/Home%20Page%20EN.jpg)
+تصاویر زیر بخش‌های مختلف برنامه را نشان می‌دهند. برای مشاهده هر تصویر در اندازه کامل، روی آن کلیک کنید.
 
-Overview of the application and its main chip selection and configuration areas.
+The screenshots below illustrate the main application areas. Click any image to view it at full size.
 
-### Peripheral configuration
-[![WCH Configurator peripheral settings](./Images/peripherals%20EN.jpg)](./Images/peripherals%20EN.jpg)
+## صفحه اصلی برنامه | Application Home Page
 
-A view of the peripheral configuration section and its available settings.
+<p align="center">
+  <a href="./Images/Home%20Page%20FA.jpg">
+    <img src="./Images/Home%20Page%20FA.jpg" alt="صفحه اصلی WCH Configurator" width="90%">
+  </a>
+</p>
 
-### User guide
-[![WCH Configurator help guide](./Images/Help%20EN.jpg)](./Images/Help%20EN.jpg)
+<p align="center">
+  <a href="./Images/Home%20Page%20EN.jpg">
+    <img src="./Images/Home%20Page%20EN.jpg" alt="WCH Configurator home page" width="90%">
+  </a>
+</p>
 
-Visual guide to help users understand how to use the tool.
+## تنظیم peripheralها | Peripheral Configuration
 
-### About the application
-[![About WCH Configurator](./Images/About%20EN.jpg)](./Images/About%20EN.jpg)
+<p align="center">
+  <a href="./Images/peripherals%20FA.jpg">
+    <img src="./Images/peripherals%20FA.jpg" alt="تنظیم peripheralها در WCH Configurator" width="90%">
+  </a>
+</p>
 
-Introduction to the application and MEMAR ELECTRONIC SANAT.
+<p align="center">
+  <a href="./Images/peripherals%20EN.jpg">
+    <img src="./Images/peripherals%20EN.jpg" alt="WCH Configurator peripheral settings" width="90%">
+  </a>
+</p>
 
-## Prepared by
+## راهنمای استفاده | User Guide
+
+<p align="center">
+  <a href="./Images/Help%20FA.jpg">
+    <img src="./Images/Help%20FA.jpg" alt="راهنمای استفاده از WCH Configurator" width="90%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="./Images/Help%20EN.jpg">
+    <img src="./Images/Help%20EN.jpg" alt="WCH Configurator user guide" width="90%">
+  </a>
+</p>
+
+## درباره برنامه | About the Application
+
+<p align="center">
+  <a href="./Images/About%20FA.jpg">
+    <img src="./Images/About%20FA.jpg" alt="درباره WCH Configurator" width="90%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="./Images/About%20EN.jpg">
+    <img src="./Images/About%20EN.jpg" alt="About WCH Configurator" width="90%">
+  </a>
+</p>
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Project Section">
+</p>
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="WCH Configurator — MCU Setup and C Code Generation">
+</p>
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
+</p>
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Embedded Engineering Resources">
+</p>
+
+## تهیه و تدوین
+
+**معمار الکترونیک صنعت**
+
+**MEMAR ELECTRONIC SANAT (MES)**
+
+همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
+
+طراحی و توسعه مدارهای الکترونیکی، PCB، سیستم‌های embedded و ابزارهای پیکربندی میکروکنترلر.
+
+- کانال تلگرام: [https://t.me/Memar_Electronic](https://t.me/Memar_Electronic)
+- پیج اینستاگرام: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
+- GitHub: [MEMAR-ELECTRONIC-SANAT](https://github.com/MEMAR-ELECTRONIC-SANAT)
+
+## Prepared and Maintained by
 
 **MEMAR ELECTRONIC SANAT (MES) | معمار الکترونیک صنعت**
 
-Design and development of electronic circuits, PCBs, embedded systems, and microcontroller configuration tools.
+*Your partner in designing and building reliable circuits.*
+
+Electronic circuit and PCB design, embedded systems, and microcontroller configuration tools.
 
 - Telegram: [Memar Electronic](https://t.me/Memar_Electronic)
 - Instagram: [Memar.Electronic](https://www.instagram.com/Memar.Electronic)
@@ -124,3 +300,10 @@ Design and development of electronic circuits, PCBs, embedded systems, and micro
 
 ---
 
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
+</p>
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
+</p>
