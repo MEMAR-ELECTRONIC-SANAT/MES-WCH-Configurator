@@ -5,18 +5,17 @@
 # MES-WCH-Configurator
 
 <p align="center">
-
-[🇮🇷 فارسی](#نسخه-فارسی)　|　[🇬🇧 English](#english-version)
-
+  <a href="#نسخه-فارسی">🇮🇷 فارسی</a>　|　
+  <a href="#english-version">🇬🇧 English</a>
 </p>
 
 <p align="center">
-  <strong>WCH Microcontroller Peripheral Configurator & C Initialization Code Generator</strong>
+  <strong>WCH Microcontroller Peripheral Configurator &amp; C Initialization Code Generator</strong>
 </p>
 
 <p align="center">
   <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">
-    <img src="https://img.shields.io/badge/Launch-WCH%20Configurator%20v1.6-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch WCH Configurator v1.6">
+    <img src="https://img.shields.io/badge/Launch-WCH%20Configurator%20v1.6-155EEF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Launch WCH Configurator v1.6">
   </a>
 </p>
 
@@ -26,31 +25,31 @@
 
 ## معرفی
 
-**WCH Configurator FA-EN v1.6** یک ابزار تحت وب و دوزبانه برای انتخاب میکروکنترلرهای شرکت WCH، پیکربندی peripheralهای متداول و تولید کد اولیه راه‌اندازی به زبان C است.
+**WCH Configurator FA-EN v1.6** ابزاری تحت وب و دوزبانه برای انتخاب میکروکنترلرهای شرکت WCH، پیکربندی peripheralهای متداول و تولید کد اولیه راه‌اندازی به زبان C است.
 
-این ابزار با هدف ساده‌تر کردن مرحله پیکربندی اولیه میکروکنترلر و آماده‌سازی ساختار کد برای استفاده در پروژه‌های embedded توسعه داده شده است.
+این ابزار فرایند پیکربندی اولیه MCU را ساده‌تر می‌کند و یک نقطه شروع برای توسعه Firmware پروژه‌های Embedded در اختیار کاربر قرار می‌دهد.
 
-> انتخاب خانواده و مدل تراشه، تنظیم peripheralها، مشاهده نقشه پایه‌ها و تولید کد C در یک محیط یکپارچه.
-
-## اجرای آنلاین برنامه
+## اجرای آنلاین
 
 <p align="center">
   <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">
-    <img src="https://img.shields.io/badge/اجرای_آنلاین-WCH%20Configurator%20v1.6-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="اجرای آنلاین WCH Configurator نسخه 1.6">
+    <img src="https://img.shields.io/badge/اجرای_آنلاین-WCH%20Configurator%20v1.6-155EEF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="اجرای آنلاین WCH Configurator نسخه 1.6">
   </a>
 </p>
 
-**[▶ اجرای WCH Configurator v1.6](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)**
+<p align="center">
+  <strong><a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">▶ اجرای WCH Configurator v1.6</a></strong>
+</p>
 
-با مراجعه به نشانی بالا، نسخه 1.6 برنامه مستقیماً در مرورگر اجرا می‌شود. برای استفاده از نسخه آنلاین، نیازی به دانلود یا نصب برنامه نیست.
+با بازکردن لینک بالا، فایل ورودی GitHub Pages یعنی index.html به‌صورت خودکار نسخه 1.6 برنامه را در مرورگر باز می‌کند. برای استفاده از نسخه آنلاین، دانلود یا نصب برنامه لازم نیست.
 
 ## نسخه و فایل‌های پروژه
 
 - **نسخه برنامه:** 1.6
 - **زبان رابط کاربری:** فارسی / English
 - **اجرای آنلاین:** [GitHub Pages](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)
+- **فایل ورودی سایت:** [index.html](./index.html)
 - **فایل اصلی برنامه:** [WCH-Configurator-FA-EN-v1_6.html](./WCH-Configurator-FA-EN-v1_6.html)
-- **فایل ورودی GitHub Pages:** [index.html](./index.html)
 - **مخزن پروژه:** [MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
 
 ## قابلیت‌ها
@@ -70,7 +69,7 @@
 1. روی دکمه **اجرای آنلاین** در بالای این صفحه کلیک کنید.
 2. خانواده میکروکنترلر موردنظر را انتخاب کنید.
 3. مدل دقیق تراشه را از فهرست انتخاب کنید.
-4. از بخش‌های GPIO، SPI، I²C، UART، TIMER، ADC یا IRQ، peripheral موردنظر را پیکربندی کنید.
+4. peripheral موردنظر را از بخش‌های GPIO، SPI، I²C، UART، TIMER، ADC یا IRQ پیکربندی کنید.
 5. با انتخاب **Add to configuration** تنظیم را به فهرست پیکربندی اضافه کنید.
 6. نقشه پایه‌ها و کد تولیدشده را بررسی کنید.
 7. با گزینه **Copy** کد را کپی یا با گزینه **Download .c** آن را دریافت کنید.
@@ -82,7 +81,7 @@
 - تخصیص پایه‌ها، Alternate Function، کلاک، وقفه‌ها و قابلیت‌های peripheral باید با دیتاشیت **مدل و پکیج دقیق** میکروکنترلر تطبیق داده شوند.
 - نقشه پایه‌ها در برنامه یک راهنمای منطقی است و لزوماً نشان‌دهنده اتصال فیزیکی تمام پایه‌ها در همه پکیج‌ها نیست.
 - الگوی تولید کد با توجه به خانواده انتخاب‌شده تغییر می‌کند. خانواده‌های CH32V/CH32F/CH32X/CH32L از الگوی کتابخانه‌های متناسب خود و خانواده‌های BLE سری CH57x/CH58x/CH59x از الگوی SDK مربوط استفاده می‌کنند.
-- ممکن است برای برخی پیکربندی‌ها، کد تولیدشده به تکمیل یا اصلاح دستی نیاز داشته باشد.
+- ممکن است برخی پیکربندی‌ها به تکمیل یا اصلاح دستی کد نیاز داشته باشند.
 - پس از ادغام کد، پروژه را کامپایل کرده و روی سخت‌افزار واقعی آزمایش کنید.
 
 <p align="center">
@@ -114,29 +113,29 @@
 
 **WCH Configurator FA-EN v1.6** is a bilingual web-based utility for selecting WCH microcontrollers, configuring common peripherals, and generating initial C-language initialization code.
 
-It is designed to simplify the initial MCU configuration workflow and provide a useful starting point for embedded firmware projects.
-
-> Select an MCU family and device, configure peripherals, inspect the logical pin map, and generate C initialization code in one interface.
+It is intended to simplify the initial MCU configuration workflow and provide a practical starting point for embedded firmware projects.
 
 ## Launch the Web Application
 
 <p align="center">
   <a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">
-    <img src="https://img.shields.io/badge/Launch%20Web%20App-WCH%20Configurator%20v1.6-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch WCH Configurator v1.6">
+    <img src="https://img.shields.io/badge/Launch%20Web%20App-WCH%20Configurator%20v1.6-155EEF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Launch WCH Configurator v1.6">
   </a>
 </p>
 
-**[▶ Launch WCH Configurator v1.6](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)**
+<p align="center">
+  <strong><a href="https://memar-electronic-sanat.github.io/MES-WCH-Configurator/">▶ Launch WCH Configurator v1.6</a></strong>
+</p>
 
-The link opens the latest application directly in your browser. No download or installation is required to use the online version.
+The GitHub Pages entry point, index.html, automatically redirects to the v1.6 application. No download or installation is required to use the online version.
 
 ## Version and Project Files
 
 - **Application version:** 1.6
 - **Interface languages:** Persian / English
 - **Live application:** [GitHub Pages](https://memar-electronic-sanat.github.io/MES-WCH-Configurator/)
-- **Main application file:** [WCH-Configurator-FA-EN-v1_6.html](./WCH-Configurator-FA-EN-v1_6.html)
 - **GitHub Pages entry point:** [index.html](./index.html)
+- **Main application file:** [WCH-Configurator-FA-EN-v1_6.html](./WCH-Configurator-FA-EN-v1_6.html)
 - **Repository:** [MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
 
 ## Features
@@ -280,7 +279,7 @@ The screenshots below illustrate the main application areas. Click any image to 
 
 همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
 
-طراحی و توسعه مدارهای الکترونیکی، PCB، سیستم‌های embedded و ابزارهای پیکربندی میکروکنترلر.
+طراحی و توسعه مدارهای الکترونیکی، PCB، سیستم‌های Embedded و ابزارهای پیکربندی میکروکنترلر.
 
 - کانال تلگرام: [https://t.me/Memar_Electronic](https://t.me/Memar_Electronic)
 - پیج اینستاگرام: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
