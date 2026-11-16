@@ -42,7 +42,21 @@
 - **Portable:** اجرای مستقیم برنامه بدون نیاز به نصب؛ مناسب برای نگهداری در پوشه دلخواه یا حافظه USB.
 - هر دو خروجی برای Windows 64-bit (x64) در نظر گرفته شده‌اند و برای اجرا به Node.js یا مرورگر نیاز ندارند.
 
-> فایل‌های اجرایی Installer و Portable را فقط در صورتی می‌توان از مخزن دریافت کرد که فایل‌های مربوطه در بخش Releases یا فایل‌های مخزن منتشر شده باشند.
+### دریافت نسخه دسکتاپ ویندوز
+
+فایل‌های اجرایی نسخه دسکتاپ از بخش رسمی **GitHub Releases** منتشر می‌شوند:
+
+<p align="center">
+  <a href="https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest">
+    <img src="https://img.shields.io/badge/دانلود_آخرین_نسخه-Windows%20x64-155EEF?style=for-the-badge&logo=windows&logoColor=white" alt="دانلود آخرین نسخه ویندوز">
+  </a>
+</p>
+
+- [مشاهده تمام نسخه‌ها و تغییرات (Releases)](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases)
+- **Setup.exe:** نصب برنامه در Windows و ایجاد میانبر.
+- **Portable.exe:** اجرای برنامه بدون نصب.
+
+در صفحه هر Release، فایل‌های پیوست‌شده (Assets) و توضیحات همان نسخه قرار می‌گیرند. در حال حاضر برای دانلود نسخه دسکتاپ، آخرین Release منتشرشده را بررسی کنید.
 
 
 <p align="center">
@@ -159,7 +173,21 @@ Version 1.7 also documents two Windows desktop distribution formats in the **Hel
 - **Portable:** Runs directly without a separate installation and can be stored in a folder or on a USB drive.
 - Both editions target Windows 64-bit (x64) and do not require Node.js or a web browser at runtime.
 
-> Installer and Portable executables are downloadable only if their corresponding files have been published in the repository or its Releases.
+### Download the Windows Desktop Edition
+
+Windows desktop builds are distributed through the official **GitHub Releases** page:
+
+<p align="center">
+  <a href="https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases/latest">
+    <img src="https://img.shields.io/badge/Download%20Latest-Windows%20x64-155EEF?style=for-the-badge&logo=windows&logoColor=white" alt="Download the latest Windows release">
+  </a>
+</p>
+
+- [Browse all releases and version notes](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator/releases)
+- **Setup.exe:** Installs the application and creates shortcuts.
+- **Portable.exe:** Runs the application without installation.
+
+Each release page contains its version notes and attached downloadable assets. Check the latest published release for the currently available desktop build.
 
 
 ## Features
