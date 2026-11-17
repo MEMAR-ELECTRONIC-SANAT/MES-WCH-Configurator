@@ -378,5 +378,5 @@ This section contains two separate screenshot galleries, organized by the applic
 </p>
 
 <p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
+  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
 </p>
