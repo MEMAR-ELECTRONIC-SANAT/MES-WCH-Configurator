@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="../Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
-</p>
 
 <div dir="rtl" align="right">
 
@@ -87,15 +84,3 @@ When a Windows desktop build is included, the release **Assets** may contain:
 </div>
 
 ---
-
-## تهیه و تدوین
-
-**معمار الکترونیک صنعت | MEMAR ELECTRONIC SANAT (MES)**
-
-همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
-
-- GitHub: [MEMAR ELECTRONIC SANAT](https://github.com/MEMAR-ELECTRONIC-SANAT)
-- Telegram: [@Memar_Electronic](https://t.me/Memar_Electronic)
-- Instagram: [@Memar.Electronic](https://www.instagram.com/Memar.Electronic)
-
-<p align="center"><img src="../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="160" alt="MES Animated Logo"></p>

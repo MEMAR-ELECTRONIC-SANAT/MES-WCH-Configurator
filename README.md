@@ -1,18 +1,14 @@
 # MES-WCH-Configurator
 
 <p align="center">
-  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
-</p>
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
-</p>
-
-<p align="center">
   <a href="#نسخه-فارسی">🇮🇷 فارسی</a>　|　<a href="#english-version">🇬🇧 English</a>
 </p>
 
 <div dir="rtl" align="right">
+
+## سازنده اصلی
+
+> **WCH Peripheral Configurator** در اصل توسط **[Amir1387aht (Another)](https://github.com/amir1387aht)** ساخته و در تاریخ ۲۸ مرداد ۱۴۰۵ (۱۹ اوت ۲۰۲۶) در مخزن [amir1387aht/WCH-Resources](https://github.com/amir1387aht/WCH-Resources) با لایسنس MIT منتشر شده است. نسخه موجود در این مخزن بر پایه همان کد است و ترجمه فارسی و تغییرات رابط کاربری روی آن انجام شده است. طبق خواسته سازنده، هرگونه استفاده بدون ذکر نام او (Amir1387aht) ممنوع است.
 
 **پیکربندی واحدهای جانبی میکروکنترلرهای WCH و تولید کد راه‌اندازی C**
 
@@ -68,11 +64,6 @@
 
 در صفحه هر Release، فایل‌های پیوست‌شده (Assets) و توضیحات همان نسخه قرار می‌گیرند. در حال حاضر برای دانلود نسخه دسکتاپ، آخرین Release منتشرشده را بررسی کنید.
 
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="WCH Configurator Features">
-</p>
-
 ## قابلیت‌ها
 
 - انتخاب خانواده‌های پشتیبانی‌شده: CH32V، CH32F، CH32X، CH32L، CH57x، CH58x و CH59x
@@ -83,10 +74,6 @@
 - کپی کد تولیدشده در کلیپ‌بورد و دریافت فایل .c
 - رابط دو‌زبانه فارسی و انگلیسی
 - بخش معرفی مجموعه **معمار الکترونیک صنعت**
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="WCH Configurator — MCU Setup and C Code Generation">
-</p>
 
 ## روش استفاده
 
@@ -136,17 +123,13 @@
 
 [MEMAR-ELECTRONIC-SANAT / MES-WCH-Configurator](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-WCH-Configurator)
 
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
-</p>
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Embedded Engineering Resources">
-</p>
-
 </div>
 
 # English Version
+
+## Original Author
+
+> **WCH Peripheral Configurator** was originally created by **[Amir1387aht (Another)](https://github.com/amir1387aht)** and published on 19 August 2026 in [amir1387aht/WCH-Resources](https://github.com/amir1387aht/WCH-Resources) under the MIT License. The version in this repository is based on that code, with a Persian translation and UI changes added. As requested by the author, any usage without crediting the author's name (Amir1387aht) is forbidden.
 
 ## Overview
 
@@ -203,7 +186,6 @@ Windows desktop builds are distributed through the official **GitHub Releases** 
 
 Each release page contains its version notes and attached downloadable assets. Check the latest published release for the currently available desktop build.
 
-
 ## Features
 
 - Supports the CH32V, CH32F, CH32X, CH32L, CH57x, CH58x, and CH59x MCU families
@@ -214,7 +196,7 @@ Each release page contains its version notes and attached downloadable assets. C
 - Copy generated code to the clipboard
 - Download generated source code as a C file
 - Bilingual Persian and English user interface
-- Built-in help and an About section for MEMAR ELECTRONIC SANAT
+- Built-in help and an About section crediting the original author (Amir1387aht)
 
 ## How to Use
 
@@ -259,7 +241,6 @@ Each release page contains its version notes and attached downloadable assets. C
 
 ---
 
-
 # تصاویر و دیاگرام‌های راهنما | Application Screenshots and Guide
 
 در این بخش، تصاویر برنامه بر اساس زبان رابط کاربری در دو مجموعه مستقل ارائه شده‌اند.
@@ -267,10 +248,6 @@ Each release page contains its version notes and attached downloadable assets. C
 This section contains two separate screenshot galleries, organized by the application interface language.
 
 ## تصاویر نسخه فارسی (FA)
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider — Persian Gallery">
-</p>
 
 ### صفحه اصلی برنامه | Application Home Page
 
@@ -306,10 +283,6 @@ This section contains two separate screenshot galleries, organized by the applic
 
 ## English Version (EN)
 
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider — English Gallery">
-</p>
-
 ### Application Home Page
 
 <p align="center">
@@ -341,40 +314,3 @@ This section contains two separate screenshot galleries, organized by the applic
     <img src="./Images/About%20EN.jpg" alt="About WCH Configurator — English version" width="90%">
   </a>
 </p>
-
-### تصاویر هویت بصری MES | Shared MES Visual Assets
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Project Section">
-</p>
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="WCH Configurator — MCU Setup and C Code Generation">
-</p>
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Embedded Engineering Resources">
-</p>
-
-
-## تهیه و تدوین
-
-**معمار الکترونیک صنعت**
-**MEMAR ELECTRONIC SANAT (MES)**
-
-همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
-
-طراحی و توسعه مدارهای الکترونیکی، PCB، سیستم‌های embedded و ابزارهای پیکربندی میکروکنترلر.
-
-- کانال تلگرام: [https://t.me/Memar_Electronic](https://t.me/Memar_Electronic)
-- پیج اینستاگرام: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
-- GitHub: [MEMAR-ELECTRONIC-SANAT](https://github.com/MEMAR-ELECTRONIC-SANAT)
-
-
----
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
-</p>
-
-<p align="center"><img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="160" alt="MES Animated Logo"></p>
