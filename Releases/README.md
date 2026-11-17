@@ -98,6 +98,4 @@ When a Windows desktop build is included, the release **Assets** may contain:
 - Telegram: [@Memar_Electronic](https://t.me/Memar_Electronic)
 - Instagram: [@Memar.Electronic](https://www.instagram.com/Memar.Electronic)
 
-<p align="center">
-  <img src="../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
-</p>
+<p align="center"><img src="../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="160" alt="MES Animated Logo"></p>
